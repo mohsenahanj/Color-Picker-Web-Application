@@ -1,6 +1,6 @@
 # Color Picker Web Application
 
-![Color Picker Screenshot](static/screenshot.png)
+![Color Picker Screenshot](assets/Screenshot 2025-02-21 021357.png)
 
 ## Description
 
