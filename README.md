@@ -43,6 +43,8 @@ Open the application in your browser:
   ```bash
 [python app.py](http://127.0.0.1:5000)
 ```
+![Screenshot 2025-02-21 021331](https://github.com/user-attachments/assets/20ec4771-585d-416a-a6b8-37a777a213be)
+
 
 **Usage**
 After running the application, go to http://127.0.0.1:5000 in your browser.
@@ -97,13 +99,13 @@ Submit a pull request.
 
 ---
 
-##License
+## License
 This project is licensed under the MIT License .
 
 ---
 
 ## Acknowledgments
--Flask [Flask]([https://choosealicense.com/](https://flask.palletsprojects.com/en/stable/?spm=5aebb161.71ee6924.0.0.43c7c921BxLDxj))
+-[Flask]([https://choosealicense.com/](https://flask.palletsprojects.com/en/stable/?spm=5aebb161.71ee6924.0.0.43c7c921BxLDxj))
 -Pillow
 -NumPy
 -scikit-learn
