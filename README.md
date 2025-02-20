@@ -1,4 +1,4 @@
-# Color Picker Web Application
+### Color Picker Web Application
 ![Screenshot 2025-02-21 021357](https://github.com/user-attachments/assets/ef161ff6-7f85-492f-ae0f-f78c139e3231)
 ## Description
 
@@ -44,7 +44,7 @@ Open the application in your browser:
 [python app.py](http://127.0.0.1:5000)
 ```
 
-Usage
+**Usage**
 After running the application, go to http://127.0.0.1:5000 in your browser.
 Select and upload an image.
 The dominant colors in the image will be displayed along with their HEX, RGB, and CMYK codes.
@@ -52,18 +52,18 @@ You can copy the HEX code of any color by clicking the "Copy HEX" button.
 Requirements
 To run this project, you need the following dependencies:
 
-Python 3.6+
-Flask
-Pillow
-NumPy
-scikit-learn
+-Python 3.6+
+-Flask
+-Pillow
+-NumPy
+-scikit-learn
 
 These dependencies are listed in the requirements.txt file. You can install them using:
   ```bash
 pip install -r requirements.txt
 ```
 
-Folder Structure
+**Folder Structure**
   ```bash
 /color-picker
     app.py
@@ -82,7 +82,7 @@ requirements.txt: List of required Python packages.
 README.md: This file!
 
 
-Contributing
+**Contributing**
 If you'd like to contribute to this project, follow these steps:
 
 Fork the repository.
@@ -92,17 +92,20 @@ Push your changes to your branch (git push origin feature/YourFeature).
 Submit a pull request.
 
 
-License
+**License**
 This project is licensed under the MIT License .
 
 
-Acknowledgments
-Flask
-Pillow
-NumPy
-scikit-learn
-Contact
+**Acknowledgments**
+-[Flask]([https://choosealicense.com/](https://flask.palletsprojects.com/en/stable/?spm=5aebb161.71ee6924.0.0.43c7c921BxLDxj))
+-Pillow
+-NumPy
+-scikit-learn
+
+**Contact**
 If you have any questions or feedback, feel free to reach out:
 
-Email: ahanjm@gmail.com
-GitHub: @mohsenahanj
+     ```markdown
+     - Email: ahanjm@gmail.com
+     - GitHub: [@mohsenahanj](https://github.com/mohsenahanj)
+     ```
