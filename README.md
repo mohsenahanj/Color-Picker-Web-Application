@@ -23,3 +23,15 @@
    ```bash
    git clone https://github.com/your-username/color-picker.git
    cd color-picker
+  ```
+  ```
+Create a virtual environment (optional but recommended):
+  ```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+Install dependencies:
+  ```bash
+pip install -r requirements.txt
+```
