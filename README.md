@@ -58,10 +58,13 @@ To run this project, you need the following dependencies:
 -NumPy
 -scikit-learn
 
+---
+
 These dependencies are listed in the requirements.txt file. You can install them using:
   ```bash
 pip install -r requirements.txt
 ```
+---
 
 **Folder Structure**
   ```bash
@@ -81,8 +84,9 @@ app.py: The main application code.
 requirements.txt: List of required Python packages.
 README.md: This file!
 
+---
 
-**Contributing**
+## Contributing
 If you'd like to contribute to this project, follow these steps:
 
 Fork the repository.
@@ -91,21 +95,24 @@ Make your changes and commit them (git commit -m 'Add some feature').
 Push your changes to your branch (git push origin feature/YourFeature).
 Submit a pull request.
 
+---
 
-**License**
+##License
 This project is licensed under the MIT License .
 
+---
 
-**Acknowledgments**
--[Flask]([https://choosealicense.com/](https://flask.palletsprojects.com/en/stable/?spm=5aebb161.71ee6924.0.0.43c7c921BxLDxj))
+## Acknowledgments
+-Flask [Flask]([https://choosealicense.com/](https://flask.palletsprojects.com/en/stable/?spm=5aebb161.71ee6924.0.0.43c7c921BxLDxj))
 -Pillow
 -NumPy
 -scikit-learn
 
-**Contact**
+---
+
+## Contact
 If you have any questions or feedback, feel free to reach out:
 
-     ```markdown
      - Email: ahanjm@gmail.com
      - GitHub: [@mohsenahanj](https://github.com/mohsenahanj)
-     ```
+
