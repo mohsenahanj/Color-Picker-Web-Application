@@ -23,8 +23,7 @@
    ```bash
    git clone https://github.com/your-username/color-picker.git
    cd color-picker
-  ```
-  ```
+
 Create a virtual environment (optional but recommended):
   ```bash
 python -m venv venv
@@ -35,3 +34,75 @@ Install dependencies:
   ```bash
 pip install -r requirements.txt
 ```
+Run the application:
+  ```bash
+python app.py
+```
+
+Open the application in your browser:
+  ```bash
+[python app.py](http://127.0.0.1:5000)
+```
+
+Usage
+After running the application, go to http://127.0.0.1:5000 in your browser.
+Select and upload an image.
+The dominant colors in the image will be displayed along with their HEX, RGB, and CMYK codes.
+You can copy the HEX code of any color by clicking the "Copy HEX" button.
+Requirements
+To run this project, you need the following dependencies:
+
+Python 3.6+
+Flask
+Pillow
+NumPy
+scikit-learn
+
+These dependencies are listed in the requirements.txt file. You can install them using:
+  ```bash
+pip install -r requirements.txt
+```
+
+Folder Structure
+  ```bash
+/color-picker
+    app.py
+    /static
+        /uploads
+        screenshot.png
+        example_output.png
+    /templates
+        index.html
+    requirements.txt
+```
+app.py: The main application code.
+/static/uploads: Directory for storing uploaded images.
+/templates/index.html: HTML template for the web page.
+requirements.txt: List of required Python packages.
+README.md: This file!
+
+
+Contributing
+If you'd like to contribute to this project, follow these steps:
+
+Fork the repository.
+Create a new branch (git checkout -b feature/YourFeature).
+Make your changes and commit them (git commit -m 'Add some feature').
+Push your changes to your branch (git push origin feature/YourFeature).
+Submit a pull request.
+
+
+License
+This project is licensed under the MIT License .
+
+
+Acknowledgments
+Flask
+Pillow
+NumPy
+scikit-learn
+Contact
+If you have any questions or feedback, feel free to reach out:
+
+Email: ahanjm@gmail.com
+GitHub: @mohsenahanj
