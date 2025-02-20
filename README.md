@@ -1,7 +1,5 @@
 # Color Picker Web Application
-
-![Color Picker Screenshot](assets/Screenshot 2025-02-21 021357.png)
-
+![Screenshot 2025-02-21 021357](https://github.com/user-attachments/assets/ef161ff6-7f85-492f-ae0f-f78c139e3231)
 ## Description
 
 **Color Picker** is a web application built using Flask that allows you to upload images and identify the dominant colors present in them. The application uses the K-Means algorithm to detect up to 9 dominant colors and displays them in HEX, RGB, and CMYK formats. Additionally, it adjusts the text color based on the brightness of each color and provides a "Copy HEX" button for easy copying of color codes.
